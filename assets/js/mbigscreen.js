@@ -4,7 +4,7 @@ var mbigscreen = (function () {
 
     return {
         datatitle: {
-            name: '广东省国防职业教育学院',
+            name: '广东省教育学院（示例）',
             type: 'background',
             style: {
                 boxClass: 'm-bg'
